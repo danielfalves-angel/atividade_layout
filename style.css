@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(255, 65, 65, 0.842);
+    background-color: rgba(255, 255, 255, 0.842);
 }
 
 .flex{
@@ -8,16 +8,20 @@ body{
 .yo{
     padding: 50;
     margin: 20;
-    background-color: rgb(255, 203, 60);
+    background-color: rgb(255, 238, 0);
 }
 .blue{
-    background-color: rgb(115, 115, 255);
+    background-color: rgb(54, 117, 255);
     padding: 20px;
 }
 
 .purple{
-    background-color: rgb(187, 126, 245);
+    background-color: rgb(12, 0, 24);
     display: flex;
     justify-content: center;
     padding: 10px;
+}
+.red{
+    background-color: rgb(255, 120, 120);
+    padding-right: 190px;
 }
