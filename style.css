@@ -16,12 +16,22 @@ body{
 }
 
 .purple{
-    background-color: rgb(12, 0, 24);
+    background-color: rgb(37, 0, 75);
     display: flex;
     justify-content: center;
     padding: 10px;
 }
 .red{
-    background-color: rgb(255, 120, 120);
+    
     padding-right: 190px;
+}
+.der{
+    background-color: chocolate;
+    padding-bottom: 190px;
+}
+.yu{
+    padding-bottom: 253px;
+}
+.yi{
+    padding-bottom: 115px;
 }
