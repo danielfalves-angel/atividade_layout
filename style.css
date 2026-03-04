@@ -8,7 +8,12 @@ body{
 .yo{
     padding: 50;
     margin: 20;
-    background-color: rgb(255, 238, 0);
+    background-color: rgb(255, 238, 0);  
+}
+.bl{
+    padding: 50;
+    margin: 20;
+    background-color: rgb(54, 117, 255);
 }
 .blue{
     background-color: rgb(54, 117, 255);
