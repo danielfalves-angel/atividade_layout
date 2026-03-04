@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(255, 255, 255, 0.842);
+    background-color: rgba(37, 0, 75);
 }
 
 .flex{
@@ -34,4 +34,7 @@ body{
 }
 .yi{
     padding-bottom: 115px;
+}
+.yp{
+    padding-bottom: 150px;
 }
